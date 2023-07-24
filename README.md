@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Asp.net Project**
 
-- 🌱 I’m currently learning **Flutter, Asp.Net, Javascript etc.**
+- 🌱 I’m currently learning **Asp.Net, Javascript etc.**
 
 - 👯 I’m looking to collaborate on **Andriod And Asp.Net Project**
 
@@ -17,11 +17,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/dprajapati18](https://github.com/dprajapati18)
 
-- 💬 Ask me about **Asp.net, Andriod, Computers Networking,Java,C#**
+- 💬 Ask me about **Asp.net, Andriod, Computers Networking, Java, C# , Python**
 
 - 📫 How to reach me **dprajapati170@rku.ac.in**
 
-- ⚡ Fun fact **I am interested in web developement and Andriod**
+- ⚡ Fun fact **I am interested in web development and CyberSecurity**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
